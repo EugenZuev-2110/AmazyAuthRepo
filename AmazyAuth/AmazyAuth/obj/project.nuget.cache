@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tya3z8rNW+Dep44tfl1qXj0mQqu92ZWh1qLt2YhvIlB/fsrSNQDbQs3+oNq4Sfr4be3KZKIWYZkHP7+dUitJdw==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\AmazyAuthGit\\AmazyAuth\\AmazyAuth\\AmazyAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zheny\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zheny\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zheny\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\zheny\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\zheny\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\zheny\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
