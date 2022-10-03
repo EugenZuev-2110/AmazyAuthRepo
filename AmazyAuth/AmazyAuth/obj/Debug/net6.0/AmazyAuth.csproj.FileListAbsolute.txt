@@ -31,3 +31,11 @@ C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\obj\Debug\net6.0\refint\AmazyAuth.dll
 C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\obj\Debug\net6.0\AmazyAuth.pdb
 C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\obj\Debug\net6.0\AmazyAuth.genruntimeconfig.cache
 C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\obj\Debug\net6.0\ref\AmazyAuth.dll
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\AmazyAuth.staticwebassets.runtime.json
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Git\AmazyAuthGit\AmazyAuth\AmazyAuth\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "mUZySP4hJCfmJo0S8mV0AXojAheBYtZRdB6NueND4Mc=",
+  "Hash": "HxA8P+CoQ5G4xYrTBuG6XIij1Z6XZQpym53x/pJzFrs=",
   "Source": "AmazyAuth",
   "BasePath": "_content/AmazyAuth",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AmazyAuth\\wwwroot",
+      "Source": "AmazyAuth",
+      "ContentRoot": "C:\\Git\\AmazyAuthGit\\AmazyAuth\\AmazyAuth\\wwwroot\\",
+      "BasePath": "_content/AmazyAuth",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

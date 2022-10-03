@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AmazyAuth",
+    "\\AmazyAuth\\AmazyAuth",
+    "\\AmazyAuth\\AmazyAuth\\Controllers",
+    "\\AmazyAuth\\AmazyAuth\\Models"
   ],
+  "SelectedNode": "\\AmazyAuth\\AmazyAuth.sln",
   "PreviewInSolutionExplorer": false
 }
